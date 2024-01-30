@@ -1,0 +1,44 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SubZero Blackjack/1.0.0": {
+        "dependencies": {
+          "PrettyBin": "1.1.0"
+        },
+        "runtime": {
+          "SubZero Blackjack.dll": {}
+        }
+      },
+      "PrettyBin/1.1.0": {},
+      "SubZero Blackjack API/1.0.0": {
+        "runtime": {
+          "Blackjack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SubZero Blackjack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrettyBin/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1XX4ibVi/4y96RJwBx8jSuYnOFeB3pepJtH6Vpl1gtsZamRuF3NGtywaJmhBlQPsBBi2ScnvYEmD7mVIsr2/iQ==",
+      "path": "prettybin/1.1.0",
+      "hashPath": "prettybin.1.1.0.nupkg.sha512"
+    },
+    "SubZero Blackjack API/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
