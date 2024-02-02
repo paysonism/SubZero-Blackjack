@@ -19,3 +19,5 @@ DOUBLE = TAB
 # Credits
 
 Made By [Payson](https://github.com/paysonism)
+
+TO BUY CONTACT ME ON [TELEGRAM](https://t.me/payson1337)
